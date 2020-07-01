@@ -30,3 +30,33 @@ p{
     color: white;
 
 }
+.fullstyke{
+    box-shadow: 10px 10px 40px gray;
+    height: 350px;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: white;
+
+}
+section{
+    height: 600px;
+}
+.experience{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#border-baby{
+    border-left: 6px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
