@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.name{
+    color: orange;
+}
+h1{
+    font-size: 45px;
+}
+p{
+    text-align: justify;
+}
+.hafe-width{
+    width: 40%;
+    
+    display: inline-block;
+    margin-left: 5%;}
+
+.hafe-width img{
+    width: 100%;
+    height: 600px;
+}
+.button{
+    background-image: linear-gradient(45deg,  lightsalmon, tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+
+}
